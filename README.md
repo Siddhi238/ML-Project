@@ -1,6 +1,5 @@
 # Machine Learning YouTube Sentiment Analysis.
 
-# Short Description
 # Problem Statement
 The primary objective of the project is studying and categorizing user comments of YouTube videos as positive, negative or neutral. Nowadays, on the web, billions of comments are posted every day, via online platforms such as YouTube, these opinions can guide content authors and organizations to better engage their audiences, as well as filter harmful comments.
 # Why It’s Important
