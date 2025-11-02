@@ -63,11 +63,13 @@ Alternative Approaches
 
 Steps to Run the Code
 Import Dataset:
- <img width="903" height="120" alt="image" src="https://github.com/user-attachments/assets/4be9d368-4358-4632-82ce-c8cfe4600146" />
+
+<img width="903" height="120" alt="image" src="https://github.com/user-attachments/assets/4be9d368-4358-4632-82ce-c8cfe4600146" />
 
 
 Load Data : 
- <img width="903" height="120" alt="image" src="https://github.com/user-attachments/assets/2af9e90c-60c8-4b6c-a303-6352ccae7b7e" />
+
+<img width="903" height="120" alt="image" src="https://github.com/user-attachments/assets/2af9e90c-60c8-4b6c-a303-6352ccae7b7e" />
 
 
 1.	Preprocess Text:
@@ -77,10 +79,12 @@ o	Apply TF-IDF vectorization.
 o	Split dataset - Train models - Evaluate performance.
 3.	Visualize Results:
 4.	
-MODEL	ACCURACY	PRECISION	RECALL 	F1- Score
-Logistic Regression	89%	88%	87%	88%
-Naive Bayes	87%	86%	85%	86%
-Random Forest	84%	83%	82%	83%
+| Model                | Accuracy | Precision | Recall | F1-Score |
+|-----------------------|-----------|------------|---------|-----------|
+| Logistic Regression   | 89%       | 88%        | 87%     | 88%       |
+| Naive Bayes           | 87%       | 86%        | 85%     | 86%       |
+| Random Forest         | 84%       | 83%        | 82%     | 83%       |
+
 
 # Observations:
 •	The maximum accuracy was obtained with Logistic Regression
